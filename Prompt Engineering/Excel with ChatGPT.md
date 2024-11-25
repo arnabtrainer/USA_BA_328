@@ -13,7 +13,7 @@
 * **Prompt -** `Please write the steps to convert dataset at A1 to T21 to a table.`
 6. Follow the steps given to do the needful actions to convert the dataset to a table.
 ## **Output:**
-https://github.com/user-attachments/assets/abb4313f-d9b1-4de1-927b-d088c4fb3f98
+![abb4313f-d9b1-4de1-927b-d088c4fb3f98](https://github.com/user-attachments/assets/2d93edbd-c2cc-4fd3-b578-23c1ab08d892)
 <hr>
 
 ## **Exercise - 2**
