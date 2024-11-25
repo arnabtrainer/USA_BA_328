@@ -27,7 +27,7 @@
 * **Prompt -** `Please mention formulas to get Age, Email and Reg. No. of that employee whose name is at cell K2 based on the above-mentioned table.`
 5. Follow the given instructions. Copy the formulas and paste them at cells K3, K4 and K5 respectively.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/d3f9abf7-3a21-4607-a531-63cf758d3944)
+![d3f9abf7-3a21-4607-a531-63cf758d3944](https://github.com/user-attachments/assets/d1a1e4e0-518d-4d97-868b-526888959cbc)
 <hr>
 
 ## **Exercise - 3**
@@ -39,14 +39,14 @@
 * **Prompt -** Please mention steps to highlight cell from C2:C21 if it is 'Late Arrival'.
 * Follow the steps and do the needful conditional formatting.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/ec68e9c1-8709-451b-a6cf-6e6e87cd03ce)
+![ec68e9c1-8709-451b-a6cf-6e6e87cd03ce](https://github.com/user-attachments/assets/4794bb02-b516-4bb3-b8bc-fe433146d369)
 <hr>
 
 ## **Exercise - 4**
 * **Prompt -** `Create an Excel Macro to make an 'EMI Calculator'.`
 1. Follow all the steps as mentioned in the instruction list and do the needful.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/60c29aa4-4fc6-4588-accd-3434d38ad2fb)
+![60c29aa4-4fc6-4588-accd-3434d38ad2fb](https://github.com/user-attachments/assets/feaaf78d-f83b-4ed9-9391-b52d57ba2020)
 <hr>
 
 ## **Exercise - 5**
@@ -57,7 +57,7 @@
 * **Prompt -** `I am having data in Sheet5 A1 to B21 and in Sheet6 A1:B27 with heading 'EmpName' and 'EmpEmail'. Select only duplicate data in these two sheets and copy them in Sheet7 in A and B columns with proper headings.`
 3. Follow all the steps as mentioned in the instruction list and do the needful.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/bfa723f4-fa5a-4695-8a49-ebd44d823b13)
+![bfa723f4-fa5a-4695-8a49-ebd44d823b13](https://github.com/user-attachments/assets/fcd42243-6b32-45c5-9985-731c4d971287)
 <hr>
 
 ## **Exercise - 6**
@@ -68,7 +68,7 @@
 * **Prompt -** `Now also generate the steps to highlight the cell whose value is getting selected for that specific given Item Name and the Month based on the previous table whose top left header cell is at A1.`
 * Follow all the steps as mentioned in the instruction list and do the needful. We may require a correction of the ChatGPT given formula. The correct formula will be - **=AND($A1=$Q$2, A$1=$Q$3)**
 ## **Output:**
-![image](https://github.com/user-attachments/assets/8e288d23-d54b-4c95-b063-0ca3e8c40e91)
+![8e288d23-d54b-4c95-b063-0ca3e8c40e91](https://github.com/user-attachments/assets/d6777f5a-bfa2-44ae-a226-3a2e52699856)
 <hr>
 
 ## **Exercise - 7**
@@ -85,7 +85,7 @@ f. Cell A1 of each sheet will contain the worksheet name.
 1. After creation of the macro, run the macro as instructions are given.
 2. Go to Home -> Cell (Group) -> Format, to verify the row and column widths.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/d68528d0-8598-4389-bf9a-8bdec3aec12a)
+![d68528d0-8598-4389-bf9a-8bdec3aec12a](https://github.com/user-attachments/assets/6187c4e3-c911-4dee-922b-cc1f692b936e)
 <hr>
 
 ## **Exercise - 8**
@@ -103,7 +103,7 @@ Now we require formulas to create new columns as mentioned below -
 2. Create column heads Full_Name, CTC in Lakhs, Gender_Code and CTC Category. Put required formulas under them as suggested.
 3. Now drag those formulas for the rest of the cells in those columns.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/bc41655d-04b7-4ed7-978d-9464021581ab)
+![bc41655d-04b7-4ed7-978d-9464021581ab](https://github.com/user-attachments/assets/38edb29b-3a37-4a90-a55f-41f7f9f8c92b)
 <hr>
 
 ## **Exercise - 9**
@@ -119,7 +119,7 @@ There is a dataset from A1 to C21 including header row containing EmpID, EmpName
 </pre>
 2. Now put proper headings as required and copy the respective formulas as suggested by ChatGPT to the respective worksheet cells.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/ad803bd5-2c6c-4a72-98c1-e47f3808109f)
+![ad803bd5-2c6c-4a72-98c1-e47f3808109f](https://github.com/user-attachments/assets/5409743d-3484-4ef8-86f4-6de29448c666)
 <hr>
 
 ## **Exercise - 10**
@@ -138,7 +138,7 @@ There is a dataset from A1 to C21 including header row containing EmpID, EmpName
 * **Prompt -** `Can you draw all these suggested graphs and charts?`
 
 ## **Output:**
-![image](https://github.com/user-attachments/assets/a2aed3d9-38d7-412c-a7b3-5d9a99700eac)
+![a2aed3d9-38d7-412c-a7b3-5d9a99700eac](https://github.com/user-attachments/assets/800dce35-f3cf-443a-bb4c-2c6b50e11915)
 <hr> <hr>
 
 ## **Exercise - 11**
