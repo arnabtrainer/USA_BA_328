@@ -1,2 +1,2 @@
 
-![image](https://github.com/toarnabtrainer/AEC_DBMS_May_2024/assets/111301975/82672e3f-3f4a-493d-a475-0e3f03a4fd92)
+![image](https://github.com/user-attachments/assets/695ddc88-6938-4c8d-8e21-e7fc607bb91a)
